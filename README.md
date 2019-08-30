@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
 
+## Demo
+
+Demo on Github Pages can be found here: [https://michaeltran.github.io/Angular-Recipe-Book/](https://michaeltran.github.io/Angular-Recipe-Book/).
+
+## Deploy to Github Pages
+
+```
+ng build --prod --base-href "https://michaeltran.github.io/Angular-Recipe-Book/"
+ngh
+
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

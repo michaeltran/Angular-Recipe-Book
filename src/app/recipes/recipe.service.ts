@@ -17,7 +17,7 @@ export class RecipeService {
                 new Ingredient('French Fries', 20)
             ]),
         new Recipe('Big Fat Burger',
-            'What else do you need to say?',
+            'What else do you need to say??',
             'https://media1.s-nbcnews.com/j/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p_d9270c5c545b30ea094084c7f2342eb4.fit-2000w.jpg',
             [
                 new Ingredient('Buns', 2),
